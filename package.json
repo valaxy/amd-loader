@@ -1,5 +1,6 @@
 {
   "name": "amd-loader",
+  "version": "1.0.0",
   "volo": {
     "url": "https://raw.github.com/guybedford/amd-loader/{version}/amd-loader.js"
   }
